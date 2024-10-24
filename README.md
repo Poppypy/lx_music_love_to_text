@@ -1,0 +1,2 @@
+# lx_music_love_to_text
+一个落雪音乐歌单导出转文本的工具，用于导入spotify
